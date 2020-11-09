@@ -1,0 +1,48 @@
+---
+layout: default
+permalink: /seconde-physique/
+title: Seconde - Physique-Chimie
+---
+
+  <h1 style="text-align: center;"><a href="javascript:void(0);">Cours Physique-Chimie</a></h1>
+  <p style="text-align: center;"><a>Classe : Seconde</a></p><br>
+<section class="timeline">
+  <ul>
+    {% for post in site.seconde %}
+    {% if post.tags contains "physique" %}
+    <li>
+      <div>
+        <time><a href="{{site.baseurl}}{{post.url}}" style="color: #fff;">{{post.title}}</a></time> {{post.excerpt}}
+      </div>
+    </li>
+    {% endif %}
+    {% endfor %}
+  </ul>
+</section>
+
+<!-- Java Script
+================================================== -->
+<script src="{{site.url}}/assets/js/jquery-3.3.1.min.js"></script>
+<script src="{{site.url}}/assets/js/jquery-migrate-3.0.1.min.js"></script>
+<script src="{{site.url}}/assets/js/jquery-ui.js"></script>
+<script src="{{site.url}}/assets/js/popper.min.js"></script>
+<script src="{{site.url}}/assets/js/bootstrap.min.js"></script>
+<script src="{{site.url}}/assets/js/owl.carousel.min.js"></script>
+<script src="{{site.url}}/assets/js/jquery.stellar.min.js"></script>
+<script src="{{site.url}}/assets/js/jquery.countdown.min.js"></script>
+<script src="{{site.url}}/assets/js/jquery.magnific-popup.min.js"></script>
+<script src="{{site.url}}/assets/js/bootstrap-datepicker.min.js"></script>
+<script src="{{site.url}}/assets/js/swiper.min.js"></script>
+<script src="{{site.url}}/assets/js/aos.js"></script>
+<script src="{{site.url}}/assets/js/picturefill.min.js"></script>
+<script src="{{site.url}}/assets/js/lightgallery-all.min.js"></script>
+<script src="{{site.url}}/assets/js/jquery.mousewheel.min.js"></script>
+<script src="{{site.url}}/assets/js/main.js"></script>
+<script src="{{site.url}}/assets/js/tab-index.js"></script>
+<script src="{{site.url}}/assets/js/js-cours/anim.js"></script>
+
+<script>
+  $(document).ready(function(){
+    $('#lightgallery').lightGallery();
+  });
+</script>

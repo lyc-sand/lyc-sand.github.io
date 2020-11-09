@@ -1,0 +1,40 @@
+title: StudyMore
+email: thisiskeanyvy@tuta.io #Contact Keany Vy KHUN (pro)
+description: >- # this means to ignore newlines until "baseurl:"
+  Grâce à StudyMore, améliorez vos notes dans toutes les matières au lycée ! Retrouvez tous vos cours gratuitement et conformes au programme de cette année.
+
+# uncomment for github pages utilisation
+baseurl: # the subpath of your site, e.g. /blog
+url: https://lyc-sand.github.io # the base hostname & protocol for your site, e.g. http://example.com
+# uncomment for local utilisation and build
+#baseurl:
+#url:
+twitter_username: kidsnetwork_app
+github_username:  kidsnetwork
+
+markdown: kramdown
+permalink: /:categories/:title
+collections:
+  - seconde
+
+collections_dir: cours
+collections:
+  seconde:
+    output: true
+    permalink: /classe_seconde/:categories/:name
+    order:
+      - allemand/*.md
+      - anglais/*.md
+      - enseignement moral et civique/*.md
+      - espagnol/*.md
+      - français/*.md
+      - histoire-géographie/*.md
+      - mathématiques/*.md
+      - physique-chimie/*.md
+      - sciences de la vie et de la terre/*.md
+      - sciences économiques et sociales/*.md
+      - sciences numériques et technologie/*.md
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap

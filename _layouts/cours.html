@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include head-cours.html %}
+
+  <body>
+    <a href="javascript:void(0);" onclick="window.history.back();" style="text-align: center; color: #eec60a;">&nbsp;&nbsp;Retourner au sommaire</a>
+  <div id="fb-root"></div>
+
+    <div class="s-wrap site-wrapper">
+
+    {% include header-cours.html %}
+
+    <!-- site content
+    ================================================== -->
+    <div class="s-content content">
+        <main class="row content__page">
+
+            <article class="column large-full entry format-standard">
+
+                <div class="content__page-header entry__header">
+                    <h1 class="display-1 entry__title">
+                    {{ page.title }}
+                    </h1>
+                    <ul class="entry__header-meta">
+                        <li class="date">Classe : Seconde</li>
+                        <li class="date">Publié le : {{page.date | date:"%b %-d, %Y"}}</li>
+                        <li class="cat-links">
+                            Catégorie : <a href="javascript:void(0);" onclick="window.history.back();">{{ page.categories }}</a>
+                        </li>
+                    </ul>
+                </div> <!-- end entry__header -->
+
+                <div class="entry__content">
+                  {{ content }}
+                </div> <!-- end entry content -->
+
+            <!-- Facebook Comments
+            ==================================================
+            -->
+            <div id="respond">
+                <h3 class="h2">Commentaires :</h3>
+                <div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-numposts="5" data-width="800"></div>
+            </div>
+
+            </main>
+          </div>
+
+    {% include footer.html %}
+
+    <!-- Java Script
+    ================================================== -->
+    <script src="{{site.url}}/assets/js/js-cours/jquery-3.2.1.min.js"></script>
+    <script src="{{site.url}}/assets/js/js-cours/main.js"></script>
+    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/fr_FR/sdk.js#xfbml=1&version=v8.0" nonce="JqjvanNK"></script>
+    <script src="{{site.url}}/assets/js/js-cours/anim.js"></script>
+  </body>
+</html>

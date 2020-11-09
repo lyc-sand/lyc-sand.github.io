@@ -1,0 +1,106 @@
+---
+layout: default
+title: Ma Classe
+permalink: /classe/
+---
+
+<div class="container-fluid" data-aos="fade" data-aos-delay="500">
+  <div class="row">
+    <div class="col-lg-4">
+      <div class="image-wrap-2">
+        <div class="image-info">
+          <h2 class="mb-3">Seconde</h2>
+          <a href="javascript:void(0);" onclick="seconde()" class="btn btn-outline-white py-2 px-4">C'est ma classe</a>
+        </div>
+        <img src="{{site.url}}/assets/images/background/9.png" alt="Color Background" class="img-fluid">
+      </div>
+    </div>
+
+    <div class="col-lg-4">
+      <div class="image-wrap-2">
+        <div class="image-info">
+          <h2 class="mb-3">Première</h2>
+          <a href="#future-premiere" class="btn btn-outline-white py-2 px-4">C'est ma classe</a>
+        </div>
+        <img src="{{site.url}}/assets/images/background/3.png" alt="Color Background" class="img-fluid">
+      </div>
+    </div>
+
+    <div class="col-lg-4">
+      <div class="image-wrap-2">
+        <div class="image-info">
+          <h2 class="mb-3">Terminale</h2>
+          <a href="#future-terminale" class="btn btn-outline-white py-2 px-4">C'est ma classe</a>
+        </div>
+        <img src="{{site.url}}/assets/images/background/8.png" alt="Color Background" class="img-fluid">
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<script src="{{site.url}}/assets/js/jquery-3.3.1.min.js"></script>
+<script src="{{site.url}}/assets/js/jquery-migrate-3.0.1.min.js"></script>
+<script src="{{site.url}}/assets/js/jquery-ui.js"></script>
+<script src="{{site.url}}/assets/js/popper.min.js"></script>
+<script src="{{site.url}}/assets/js/bootstrap.min.js"></script>
+<script src="{{site.url}}/assets/js/owl.carousel.min.js"></script>
+<script src="{{site.url}}/assets/js/jquery.stellar.min.js"></script>
+<script src="{{site.url}}/assets/js/jquery.countdown.min.js"></script>
+<script src="{{site.url}}/assets/js/jquery.magnific-popup.min.js"></script>
+<script src="{{site.url}}/assets/js/bootstrap-datepicker.min.js"></script>
+<script src="{{site.url}}/assets/js/swiper.min.js"></script>
+<script src="{{site.url}}/assets/js/aos.js"></script>
+<script src="{{site.url}}/assets/js/picturefill.min.js"></script>
+<script src="{{site.url}}/assets/js/lightgallery-all.min.js"></script>
+<script src="{{site.url}}/assets/js/jquery.mousewheel.min.js"></script>
+<script src="{{site.url}}/assets/js/main.js"></script>
+<script src="{{site.url}}/assets/js/js-cours/anim.js"></script>
+
+<script>
+$(document).ready(function(){
+  $('#lightgallery').lightGallery();
+});
+</script>
+
+<script type="text/javascript">
+  let matiere = decodeURIComponent(window.location.hash);
+  function seconde() {
+    if(matiere == '#français') {
+      window.location = '{{site.url}}/seconde-français/';
+    }
+    if(matiere == '#allemand') {
+      window.location = '{{site.url}}/seconde-allemand/';
+    }
+    if(matiere == '#anglais') {
+      window.location = '{{site.url}}/seconde-anglais/';
+    }
+    if(matiere == '#emc') {
+      window.location = '{{site.url}}/seconde-emc/';
+    }
+    if(matiere == '#espagnol') {
+      window.location = '{{site.url}}/seconde-espagnol/';
+    }
+    if(matiere == '#géographie') {
+      window.location = '{{site.url}}/seconde-géographie/';
+    }
+    if(matiere == '#histoire') {
+      window.location = '{{site.url}}/seconde-histoire/';
+    }
+    if(matiere == '#maths') {
+      window.location = '{{site.url}}/seconde-mathématiques/';
+    }
+    if(matiere == '#physique') {
+      window.location = '{{site.url}}/seconde-physique/';
+    }
+    if(matiere == '#ses') {
+      window.location = '{{site.url}}/seconde-ses/';
+    }
+    if(matiere == '#snt') {
+      window.location = '{{site.url}}/seconde-snt/';
+    }
+    if(matiere == '#svt') {
+      window.location = '{{site.url}}/seconde-svt/';
+    }
+  }
+</script>

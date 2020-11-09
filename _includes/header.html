@@ -1,0 +1,93 @@
+<div class="site-wrap">
+
+  <div class="site-mobile-menu">
+    <div class="site-mobile-menu-header">
+      <div class="site-mobile-menu-close mt-3">
+        <span class="icon-close2 js-menu-toggle"></span>
+      </div>
+    </div>
+    <div class="site-mobile-menu-body"></div>
+  </div>
+
+<header class="site-navbar py-3" role="banner">
+
+  <div class="container-fluid">
+    <div class="row align-items-center">
+
+      <div class="col-6 col-xl-2" data-aos="fade-down">
+        <h1 class="mb-0"><a href="{{site.url}}" class="text-white h2 mb-0">StudyMore</a></h1>
+      </div>
+      <div class="col-10 col-md-8 d-none d-xl-block" data-aos="fade-down">
+        <nav class="site-navigation position-relative text-right text-lg-center" role="navigation">
+
+          <ul class="site-menu js-clone-nav mx-auto d-none d-lg-block">
+            <li class="{% if page.url == '/' %}active{% endif %}"><a href="{{site.url}}">Accueil</a></li>
+            <li class="has-children">
+              <a href="javascript:void(0);">Matières</a>
+              <ul class="dropdown">
+                <li class="has-children">
+                  <a href="javascript:void(0);">Sciences</a>
+                  <ul class="dropdown">
+                    <li><a href="{{site.url}}/classe/#ses">Sciences Économiques et Sociales</a></li>
+                    <li><a href="{{site.url}}/classe/#snt">Sciences Numériques et Technologie</a></li>
+                    <li><a href="{{site.url}}/classe/#svt">Sciences de la vie et de la Terre</a></li>
+                  </ul>
+                </li>
+                <li><a href="{{site.url}}/classe/#maths">Mathématiques</a></li>
+                <li><a href="{{site.url}}/classe/#physique">Physique-Chimie</a></li>
+                <li><a href="{{site.url}}/classe/#français">Français</a></li>
+                <li><a href="{{site.url}}/classe/#histore">Histoire</a></li>
+                <li><a href="{{site.url}}/classe/#géographie">Géographie</a></li>
+                <li><a href="{{site.url}}/classe/#emc">Enseignement Moral et Civique</a></li>
+                <li><a href="{{site.url}}/classe/#anglais">Anglais</a></li>
+                <li class="has-children">
+                  <a href="javascript:void(0);">Langue Vivante 2</a>
+                  <ul class="dropdown">
+                    <li><a href="{{site.url}}/classe/#espagnol">Espagnol</a></li>
+                    <li><a href="{{site.url}}/classe/#allemand">Allemand</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            {% if page.url == '/classe/' or page.url == '/seconde/' %}<li class="active has-children">{% endif %}
+            {% if page.url != '/classe/' and page.url != '/seconde/' %}<li class="has-children">{% endif %}
+            <!--<li class="{% if page.url == '/seconde/' %}active{% endif %} has-children">-->
+              <a href="javascript:void(0);">Classes</a>
+              <ul class="dropdown">
+                <li class="{% if page.url == '/seconde/' %}active{% endif %}"><a href="{{site.url}}/seconde/">Seconde</a></li>
+                <li class="{% if page.url == '/première/' %}active{% endif %}"><a href="{{site.url}}/première/">Première</a></li>
+                <li class="{% if page.url == '/terminale/' %}active{% endif %}"><a href="{{site.url}}/terminale/">Terminale</a></li>
+              </ul>
+            </li>
+            <li class="{% if page.url == '/about/' %}active{% endif %}"><a href="{{site.url}}/about">À Propos</a></li>
+            <li><a href="https://kidsnetwork.github.io/blog/contact/">Nous Contacter</a></li>
+          </ul>
+        </nav>
+      </div>
+
+      <div class="col-6 col-xl-2 text-right" data-aos="fade-down">
+        <div class="d-none d-xl-inline-block">
+          <ul class="site-menu js-clone-nav ml-auto list-unstyled d-flex text-right mb-0" data-class="social">
+            <li>
+              <a href="https://twitter.com/kidsnetwork_app" target="_blank" class="pl-0 pr-3"><span class="icon-twitter"></span></a>
+            </li>
+            <li>
+              <a href="https://www.instagram.com/kidsnetwork_app/" target="_blank" class="pl-3 pr-3"><span class="icon-instagram"></span></a>
+            </li>
+            <li>
+              <a href="https://medium.com/@kidsnetwork" target="_blank" class="pl-3 pr-3"><span class="icon-medium"></span></a>
+            </li>
+            <li>
+              <a href="https://github.com/kidsnetwork" target="_blank" class="pl-3 pr-3"><span class="icon-github"></span></a>
+            </li>
+          </ul>
+        </div>
+
+        <div class="d-inline-block d-xl-none ml-md-0 mr-auto py-3" style="position: relative; top: 3px;"><a href="#menu" class="site-menu-toggle js-menu-toggle text-black"><span  style="color: #fff;" class="icon-menu h3"></span></a></div>
+
+      </div>
+
+    </div>
+  </div>
+
+</header>
