@@ -4,10 +4,7 @@ title: "L'exposition au théâtre"
 date: 2020-11-10 23:52:00 +0200
 tags: français
 categories: Documents
-description: "HERMILE LEBEL. C'est	 sûr,	 c'est	 sûr,	 c'est	 sûr,	 je	 préfère	 regarder	 le	 vol	 des	 oiseaux.	
-Maintenant	faut	pas	se	raconter	de	racontars : d'ici,	à	défaut	d'oiseaux,	on	voit	les	voitures	et	
-le	centre	d'achats.	Avant,	quand	j'étais	de	l'autre	côté	du	bâtiment,	mon	bureau	donnait	sur	
-l'autoroute... "
+description: "Une scène d'exposition correspond au tout début d'une pièce. Il s'agit donc de la toute première scène mais parfois ce qu'on appelle l'exposition est regroupée dans les deux premières scènes. Dans tous les cas, le moment de l'exposition ne peut pas dépasser l'acte I."
 ---
 **[Séquence 2 : le théâtre]**  
 Cours du lundi 9/11
