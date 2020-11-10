@@ -1,6 +1,6 @@
 ---
 layout: cours
-title: "Les articles A/AN/THE et zéro"
+title: "Les articles A/AN/THE et ZÉRO"
 date: 2020-11-10 17:35:00 +0200
 tags: anglais
 categories: Grammaire
@@ -36,7 +36,7 @@ Contrairement à A/AN, **devant une voyelle**, l'article défini **THE** ne chan
 Or il se prononce différemment avec le **"e"** que l'on remplace par un **"i" à l'oral**.
 
 *Exemple :*  
-> **the** orange juice = le jus d'orange.
+> **the** orange juice = le jus d'orange.  
 >    /i/
 
 ### ***Quelques exceptions :***
