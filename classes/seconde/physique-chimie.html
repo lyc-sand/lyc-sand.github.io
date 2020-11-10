@@ -12,7 +12,8 @@ title: Seconde - Physique-Chimie
     {% if post.tags contains "physique" %}
     <li>
       <div>
-        <time><a href="{{site.baseurl}}{{post.url}}" style="color: #fff;">{{post.title}}</a></time> {{post.excerpt}}
+        <time><a href="{{site.baseurl}}{{post.url}}" style="color: #fff;">{{post.title}}</a></time> {{post.description}}
+        <p>Publié le : {{post.date | date: "%-d %b, %Y"}}</p>
       </div>
     </li>
     {% endif %}
