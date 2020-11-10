@@ -55,4 +55,4 @@ Dans son	pays	il	ne	pleut	jamais,	alors	un	testament,	je	ne	vous	raconte	pas	le	
 que	ça	représente. C'est	pas	comme	les	oiseaux,	un	testament,	c'est	sûr,	c'est	autre	chose.  
 C'est	étrange	et	bizarre	mais	c'est	nécessaire.	 Je	veux dire	que	ça	 reste	un	mal	nécessaire.  
 Excusez-moi.  
-Il éclate en sanglots.  
+*Il éclate en sanglots.*
