@@ -3,7 +3,7 @@ layout: cours
 title: "Les articles A/AN/THE et zéro"
 date: 2020-11-10 17:35:00 +0200
 tags: anglais
-categories: Anglais Grammaire
+categories: Grammaire
 description: Comme tous les autres articles en anglais, les articles indéfinis sont invariables. On choisit, lequel utiliser en fonction de la première lettre du mot qui suit l'article, pour faciliter la prononciation à l'oral.
 ---
 
@@ -16,7 +16,7 @@ L'article indéfini A/AN, correspond en français à notre déterminant **un** o
 *Exemple :*   
 > **a** computer = un ordinateur.
 
-Son utilisation est plutôt simpe. Or en anglais, il existe une exception, consistant à le transformer en **AN** devant une voyelle.
+Son utilisation est plutôt simple. Or en anglais, il existe une exception, consistant à le transformer en **AN** devant une voyelle.
 
 *Exemple :*  
 > **an** animal = un animal.
@@ -33,7 +33,7 @@ L'article défini THE, correspond en français à notre déterminant **le** ou *
 > **the** case = une trousse.
 
 Contrairement à A/AN, **devant une voyelle**, l'article défini **THE** ne change pas au niveau de l'orthographe.  
-Or il se pronnonce différement avec le **"e"** que l'on remplace par un **"i" à l'oral**.
+Or il se prononce différemment avec le **"e"** que l'on remplace par un **"i" à l'oral**.
 
 *Exemple :*  
 > **the** orange juice = le jus d'orange.
@@ -43,7 +43,7 @@ Or il se pronnonce différement avec le **"e"** que l'on remplace par un **"i" �
 Pour le mot **"The United States"**, il n'y a pas de son **/i/** devant "United".
 
 ## 3. L'article ZÉRO
-Jusqu'à présent, nous avions vu les articles défini et indéfinis. Or il existe un troisième type d'article qui se nomme l'article **ZÉRO**.  
+Jusqu'à présent, nous avions vu les articles définis et indéfinis. Or il existe un troisième type d'article qui se nomme l'article **ZÉRO**.  
 Vous l'avez sûrement, déjà utilisé(e) plusieurs fois en anglais sans vous rendre compte car il est très courant en anglais. Il consiste en effet, comme son nom l'indique à ne rien mettre.
 
 *Exemple :*
