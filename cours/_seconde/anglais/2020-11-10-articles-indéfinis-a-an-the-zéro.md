@@ -7,7 +7,7 @@ categories: Grammaire
 description: Comme tous les autres articles en anglais, les articles indéfinis sont invariables. On choisit, lequel utiliser en fonction de la première lettre du mot qui suit l'article, pour faciliter la prononciation à l'oral.
 ---
 
-<p class="lead drop-cap">Dans ce premier cours, nous allons nous intéresser aux articles A, AN, THE et ZÉRO et lequel des quatres utiliser. Attention, ce cours à été publié par un élève et n'est donc pas un cours officiel. En revanche, il peut vous permettre de mieux comprendre les articles indéfinis et défini en anglais ainsi que à quel moment les utiliser.</p>
+<p class="lead drop-cap">Dans ce premier cours, nous allons nous intéresser aux articles A, AN, THE et ZÉRO et lequel des quatres utiliser. **Attention, ce cours à été publié par un élève et n'est donc pas un cours officiel.** En revanche, il peut vous permettre de mieux comprendre les articles indéfinis, définis et zéro en anglais ainsi que à quel moment les utiliser.</p>
 
 ## 1. L'article indéfini A/AN
 
