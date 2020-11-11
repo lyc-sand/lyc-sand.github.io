@@ -28,7 +28,7 @@ Nous retiendrons quatre objectifs principaux :
 
 <ins>Exercice d'application du cours :</ins>
 
-1. Repérer dans la scène 1 d'*Incendies* en relevant les mots/expressions du texte ou en surlignant grâce à un code couleur :
+1) Repérer dans la scène 1 d'*Incendies* en relevant les mots/expressions du texte ou en surlignant grâce à un code couleur :
 - les informations sur les personnages présents ou absents de la scène
 - les informations sur le cadre spatio-temporel
 - les informations sur l'intrigue
@@ -36,8 +36,8 @@ Nous retiendrons quatre objectifs principaux :
 
 **N'oubliez pas de prendre en compte le titre de la scène ("Notaire") et les didascalies !**
 
-2. Rédigez une conclusion sous forme de prises de notes avec toutes les informations trouvées (exemple : "Infos sur Hermile Lebel : il est notaire, il parait assez anxieux, etc...)
-3. Suite à ce repérage, selon vous la scène 1 d'Incendies est-elle une scène d'exposition plutôt traditonnelle (c-a-d qui répond aux critères préalablement cités dans le cours) ou plutôt atypique/originale ? Ou les deux ? Justifiez votre réponse.
+2) Rédigez une conclusion sous forme de prises de notes avec toutes les informations trouvées (exemple : "Infos sur Hermile Lebel : il est notaire, il parait assez anxieux, etc...)
+3) Suite à ce repérage, selon vous la scène 1 d'Incendies est-elle une scène d'exposition plutôt traditonnelle (c-a-d qui répond aux critères préalablement cités dans le cours) ou plutôt atypique/originale ? Ou les deux ? Justifiez votre réponse.
 
 #### Les réponses à cet exercice sont à m'envoyer par mail avant samedi.
 **Pour la question 1) vous pouvez m'envoyer votre texte avec les éléments surlignés en photo, ou alors me copier-coller votre relevé par catégories (infos sur les personnages / cadre spatio-temporel / infos sur l'intrigue)**
