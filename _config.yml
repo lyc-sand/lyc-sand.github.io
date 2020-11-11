@@ -1,7 +1,7 @@
-title: StudyMore
+title: StudyMore - Par le Lycée George Sand
 email: thisiskeanyvy@tuta.io #Contact Keany Vy KHUN (pro)
 description: >- # this means to ignore newlines until "baseurl:"
-  Grâce à StudyMore, améliorez vos notes dans toutes les matières au lycée ! Retrouvez tous vos cours gratuitement et conformes au programme de cette année.
+  Lycée George Sand - Enseignants, élèves et parents. Grâce à StudyMore, vos cours et documents sont consultables en quelques clics.
 
 # uncomment for github pages utilisation
 baseurl: # the subpath of your site, e.g. /blog
@@ -9,8 +9,9 @@ url: https://lyc-sand.github.io # the base hostname & protocol for your site, e.
 # uncomment for local utilisation and build
 #baseurl:
 #url:
-twitter_username: kidsnetwork_app
-github_username:  kidsnetwork
+twitter_username: LyceeSandDomont
+github_username:  lyc-sand
+instagram_username: lyc_georgesand
 
 markdown: kramdown
 permalink: /:categories/:title
