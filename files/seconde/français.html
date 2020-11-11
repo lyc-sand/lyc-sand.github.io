@@ -12,8 +12,8 @@ title: Fichiers Français - Seconde
       {% if file.path contains 'matieres/seconde/français' %}
     <li>
       <div>
-        <time><a href="{{site.url}}{{file.path}}" style="color: #fff;">{{file.file.basename}}</a></time> {{file.name}}
-        <p>Modifié le : {{file.modified_time}}</p>
+        <time><a href="{{site.url}}{{file.path}}" style="color: #fff;">{{file.basename}}</a></time> {{file.name}}
+        <p>Modifié le : {{file.modified_time | modified_time: "%-d %b, %Y"}}</p>
       </div>
     </li>
       {% endif %}
