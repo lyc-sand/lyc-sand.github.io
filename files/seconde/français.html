@@ -13,7 +13,7 @@ title: Fichiers Français - Seconde
     <li>
       <div>
         <time><a href="{{site.url}}{{file.path}}" style="color: #fff;">{{file.basename}}</a></time> {{file.name}}
-        <p>Modifié le : {{file.modified_time | modified_time: "%-d %b, %Y"}}</p>
+        <p>Modifié le : {{file.modified_time | date: "%-d %b, %Y"}}</p>
       </div>
     </li>
       {% endif %}
