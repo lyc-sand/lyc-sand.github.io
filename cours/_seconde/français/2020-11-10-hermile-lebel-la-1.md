@@ -4,16 +4,16 @@ title: "Incendies de	Wajdi	Mouawad	(2003)- « Incendie	de	Nawal »"
 date: 2020-11-10 23:52:00 +0200
 tags: français
 categories: Documents
-description: "HERMILE LEBEL. C'est	 sûr,	 c'est	 sûr,	 c'est	 sûr,	 je	 préfère	 regarder	 le	 vol	 des	 oiseaux.	
-Maintenant	faut	pas	se	raconter	de	racontars : d'ici,	à	défaut	d'oiseaux,	on	voit	les	voitures	et	
-le	centre	d'achats.	Avant,	quand	j'étais	de	l'autre	côté	du	bâtiment,	mon	bureau	donnait	sur	
+description: "HERMILE LEBEL. C'est	 sûr,	 c'est	 sûr,	 c'est	 sûr,	 je	 préfère	 regarder	 le	 vol	 des	 oiseaux.
+Maintenant	faut	pas	se	raconter	de	racontars : d'ici,	à	défaut	d'oiseaux,	on	voit	les	voitures	et
+le	centre	d'achats.	Avant,	quand	j'étais	de	l'autre	côté	du	bâtiment,	mon	bureau	donnait	sur
 l'autoroute... "
 ---
 
 !["Wajdi Mooawad Photo"](https://agencesimard.com/wp-content/uploads/2014/12/mouawad.jpg)
 
 Par Wajdi	Mooawad	(1968 - )  
-[Voir le document original](http://contreventsetmarees1.e-monsite.com/medias/files/hermile-lebel-la-1.pdf)
+[Voir le document original](https://lyc-sand.github.io/matieres/seconde/fran%C3%A7ais/hermile-lebel-la-1.pdf)
 
 ## Texte	5 : Incendies de	Wajdi	Mouawad	(2003)- « Incendie	de	Nawal »
 ### 1. Notaire
