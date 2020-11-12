@@ -804,6 +804,13 @@ label > input[type="radio"] {
 /* -------------------------------------------------------------------
  * ## Style Placeholder Text
  * ------------------------------------------------------------------- */
+::selection {
+ background: #ffb7b7; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+ background: #ffb7b7; /* Gecko Browsers */
+}
+
 ::-webkit-input-placeholder {
 
   /* WebKit, Blink, Edge */
@@ -3757,10 +3764,4 @@ only screen and (max-width: 760px),
 		padding-right: 10px;
 		white-space: nowrap;
 	}
-	
-	::selection {
-  		background: #ffb7b7; /* WebKit/Blink Browsers */
-	}
-	::-moz-selection {
- 		background: #ffb7b7; /* Gecko Browsers */
-	}
+}
