@@ -14,15 +14,13 @@ Objectifs : obtenir des informations sur l'intrigue et sur les personnages princ
 
 **Dans cette scène, trois personnages sont présents : le notaire Hermile Lebel, Jeanne Marwan et Simon Marwan. Ils sont réunis autour de la lecture du testament de Nawal Marwan, la mère des jumeaux, décédée quelques jours plus tôt. Il s'agit donc d'un moment prépondérant dans la pièce : le notaire lit les dernières volontés plutôt atypiques de Nawal, qui vont engendrer réactions disproportionnées et remises en question chez ses enfants.** 
 
-**I - Les informations sur l'intrigue** 
+### I - Les informations sur l'intrigue
 
 **1**. Premièrement on s'attend, à la lecture de ce testament, à découvrir les biens légués par Nawal aux jumeaux. En effet, on apprend que trois objets plutôt banals, utilisés au quotidien, sont légués aux trois personnages de la scène :
 
-\- **un stylo plume noir** est donné à Hermile Lebel, qui on l'apprend, n'était pas seulement l'exécuteur testamentaire de Nawal, mais aussi son ami.
-
-\- **un cahier rouge** revient au fils de Nawal, Simon. 
-
-\- **une veste en toile verte, avec l'inscription "72" dans le dos** est donnée à sa fille, Jeanne.
+- **un stylo plume noir** est donné à Hermile Lebel, qui on l'apprend, n'était pas seulement l'exécuteur testamentaire de Nawal, mais aussi son ami.
+- **un cahier rouge** revient au fils de Nawal, Simon. 
+- **une veste en toile verte, avec l'inscription "72" dans le dos** est donnée à sa fille, Jeanne.
 
 *Pistes de réflexion :* 
 
