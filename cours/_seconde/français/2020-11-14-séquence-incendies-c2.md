@@ -28,11 +28,9 @@ Objectifs : obtenir des informations sur l'intrigue et sur les personnages princ
 
 (Je vous invite à y travailler au brouillon et à m'envoyer vos réponses par mail si vous le désirez afin que je vous fasse un retour)
 
-\- Que pensez-vous de ces objets ? 
-
-\- Correspondent-ils à la personnalité de leurs destinataires ? 
-
-\- Pourrait-on imaginer qu'un ou plusieurs de ces objets aurait mieux convenu à un autre ou à d'autres personnage(s) ? Lesquels, et pourquoi ? 
+- Que pensez-vous de ces objets ? 
+- Correspondent-ils à la personnalité de leurs destinataires ? 
+- Pourrait-on imaginer qu'un ou plusieurs de ces objets aurait mieux convenu à un autre ou à d'autres personnage(s) ? Lesquels, et pourquoi ? 
 
 **2**. Ensuite, le support du testament est également le moyen pour celui qui "prépare sa mort" de dévoiler ses sentiments, ou bien de faire des aveux, de se confier une dernière fois en couchant sur le papier tout ce qu'il a sur le cœur, comme des remords, un secret, etc...
 
