@@ -1,6 +1,6 @@
 ---
 layout: cours
-title: "Séance 2 : Les jumeaux"
+title: "Les jumeaux"
 date: 2020-11-14 11:11:00 +0200
 tags: français
 categories: Documents
