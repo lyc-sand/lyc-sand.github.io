@@ -38,4 +38,4 @@ Dans cette scène, le spectateur apprend en même temps que les jumeaux une **r�
 
 **3**. Enfin, dans cette scène, on peut relever des indices quant à la cause du fameux silence de Nawal évoqué dans la scène 1 **: on apprend la durée de ce silence, soit cinq années avant sa mort** ("Cinq ans sans parler, c'est long […]"), **et l'un de ses éléments déclencheurs : les visites quotidiennes au palais de justice** "pendant dix ans […] à assister à des procès sans fin de tordus, de vicieux et d'assassins de tous genres puis, du jour au lendemain, elle se tait, ne dit plus un mot !"
 
-[La suite du cours se trouve dans le fichier suivant sur la plateforme]
+[Voir la suite du cours](https://lyc-sand.github.io/classe_seconde/documents/2020-11-14-s%C3%A9quence-incendies-c3)
