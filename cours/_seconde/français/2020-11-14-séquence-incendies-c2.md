@@ -1,7 +1,7 @@
 ---
 layout: cours
 title: "L'exposition au théâtre"
-date: 2020-11-10 23:52:00 +0200
+date: 2020-11-14 11:11:00 +0200
 tags: français
 categories: Documents
 description: "Une scène d'exposition correspond au tout début d'une pièce. Il s'agit donc de la toute première scène mais parfois ce qu'on appelle l'exposition est regroupée dans les deux premières scènes. Dans tous les cas, le moment de l'exposition ne peut pas dépasser l'acte I."
