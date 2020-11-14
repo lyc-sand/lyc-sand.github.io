@@ -6,6 +6,8 @@ tags: français
 categories: Documents
 description: "Une scène d'exposition correspond au tout début d'une pièce. Il s'agit donc de la toute première scène mais parfois ce qu'on appelle l'exposition est regroupée dans les deux premières scènes. Dans tous les cas, le moment de l'exposition ne peut pas dépasser l'acte I."
 ---
+[Voir le document original](https://lyc-sand.github.io/matieres/seconde/français/Séquence Incendies c2.rtf)
+
 ## Séance 2 : Les jumeaux
 
 Support : Acte I, scène 2 - *Incendies*
